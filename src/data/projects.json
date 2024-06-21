@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Amazone Clone",
+    "imageSrc": "projects/amazonImage2.png",
+    "description": "Features of this web app is interactive components and modern design. The project highlights efficient state management and user-friendly interface..",
+    "skills": ["Html", "Css", "React", "React-Router", "Redux-Toolkit"],
+    "demo": "https://amazon-clone-by-ashish-kadyan.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/expenseTracker.png",
+    "description": "Features of this app include allowing users to efficiently manage and track their expenses. It has a user-friendly interface and dynamic data visualization for better financial oversight",
+    "skills": ["Html", "Css", "JavaScript"],
+    "demo": "https://expense-tracker-by-ashish.netlify.app/",
+    "source": "https://github.com/Ashishkdyn/Expense-Tracker"
+  },
+  {
+    "title": "To-Do App",
+    "imageSrc": "projects/todoApp.png",
+    "description": "Features of this app include helping users efficiently manage and organize their tasks. It has a user-friendly interface with dynamic task updates for improved productivity.",
+    "skills": ["Html", "Css", "JavaScript"],
+    "demo": "https://todo-app-by-ashish-kadyan.netlify.app/",
+    "source": "https://github.com/Ashishkdyn/todo-app"
+  }
+]

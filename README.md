@@ -1,15 +1,8 @@
-# ashish-portfolio
-My portfolio showcases my skills, projects, and experience as a developer. With a clean and modern design, it provides an overview of my expertise and demonstrates my capabilities through various projects and achievements.
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Features
-About Me: Learn about my background, skills, and interests.
-Projects: Explore my latest projects with descriptions and links.
-Experience: Discover my professional journey and accomplishments.
-Contact: Reach out to connect or inquire about collaborations.
+Currently, two official plugins are available:
 
-
-Technology Used
-Frontend: HTML, CSS, JavaScript
-Framework: React.js
-Version Control: Git, GitHub
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
